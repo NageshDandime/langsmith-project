@@ -1,4 +1,3 @@
-📖 Full Description (README intro)
 
 This repository contains my work with LangSmith, a developer platform for building, testing, and monitoring applications powered by large language models (LLMs).
 
